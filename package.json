@@ -3,6 +3,14 @@
   "displayName": "code-personality-themes",
   "description": "",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/archie-s/code-personality-themes"
+  },
+  "bugs": {
+    "url": "https://github.com/archie-s/code-personality-themes/issues"
+  },
+  "homepage": "https://github.com/archie-s/code-personality-themes#readme",
   "engines": {
     "vscode": "^1.108.1"
   },
