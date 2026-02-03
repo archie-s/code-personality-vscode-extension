@@ -2,7 +2,7 @@
   "name": "Personality: Focus",
   "type": "dark",
   "colors": {
-    "editor.background": "#0B1020",
+    "editor.background": "#231b51",
     "statusBar.background": "#1A2450",
     "statusBar.foreground": "#E6EDF3",
     "activityBar.background": "#101A3A",
