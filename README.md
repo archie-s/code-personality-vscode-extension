@@ -1,6 +1,7 @@
 # Code Personality Themes
 
 A VS Code extension that automatically switches your editor theme based on your coding activity and stress level. Experience a dynamic workspace that adapts to your flow!
+You can find it on VS Code: jarchie - Code Personality
 
 ## Features
 
