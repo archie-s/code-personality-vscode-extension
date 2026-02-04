@@ -7,12 +7,12 @@
   "icon": "images/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/archie-s/code-personality-themes"
+    "url": "https://github.com/archie-s/code-personality-vscode-extension"
   },
   "bugs": {
-    "url": "https://github.com/archie-s/code-personality-themes/issues"
+    "url": "https://github.com/archie-s/code-personality-vscode-extension/issues"
   },
-  "homepage": "https://github.com/archie-s/code-personality-themes#readme",
+  "homepage": "https://github.com/archie-s/code-personality-vscode-extension#readme",
   "engines": {
     "vscode": "^1.108.1"
   },
