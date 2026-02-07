@@ -2,13 +2,13 @@
     "name": "Personality: Calm",
     "type": "dark",
     "colors": {
-        "editor.background": "#0F111A",
-        "statusBar.background": "#1B1F2A",
+        "editor.background": "#1e1e1e",
+        "statusBar.background": "#2d2d2d",
         "statusBar.foreground": "#C9D1D9",
-        "activityBar.background": "#141824",
-        "titleBar.activeBackground": "#141824",
-        "sideBar.background": "#111522",
-        "editorLineNumber.foreground": "#3A4155",
+        "activityBar.background": "#252525",
+        "titleBar.activeBackground": "#252525",
+        "sideBar.background": "#1e1e1e",
+        "editorLineNumber.foreground": "#4a4a4a",
         "editorCursor.foreground": "#A6E3A1"
     },
     "tokenColors": []

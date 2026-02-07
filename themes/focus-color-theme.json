@@ -2,13 +2,13 @@
   "name": "Personality: Focus",
   "type": "dark",
   "colors": {
-    "editor.background": "#231b51",
-    "statusBar.background": "#1A2450",
+    "editor.background": "#0d0d0d",
+    "statusBar.background": "#1a1a1a",
     "statusBar.foreground": "#E6EDF3",
-    "activityBar.background": "#101A3A",
-    "titleBar.activeBackground": "#101A3A",
-    "sideBar.background": "#0E1632",
-    "editorLineNumber.foreground": "#3A4B7A",
+    "activityBar.background": "#121212",
+    "titleBar.activeBackground": "#121212",
+    "sideBar.background": "#0d0d0d",
+    "editorLineNumber.foreground": "#3a3a3a",
     "editorCursor.foreground": "#7AA2F7"
   },
   "tokenColors": []
